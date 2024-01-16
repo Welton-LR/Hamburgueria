@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\Hamburgueria",
+    "\\Hamburgueria\\Hamburgueria"
   ],
-  "SelectedNode": "\\C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria",
+  "SelectedNode": "\\Hamburgueria\\Hamburgueria.sln",
   "PreviewInSolutionExplorer": false
 }
