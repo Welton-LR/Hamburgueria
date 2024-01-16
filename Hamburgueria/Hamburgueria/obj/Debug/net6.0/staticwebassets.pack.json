@@ -13,20 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\carousel1.jpg",
-      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\batata.png",
+      "PackagePath": "staticwebassets\\images\\batata.png"
     },
     {
-      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\carousel2.jpg",
-      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\burger.png",
+      "PackagePath": "staticwebassets\\images\\burger.png"
     },
     {
-      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\carousel3.jpg",
-      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\carousel4.jpg",
-      "PackagePath": "staticwebassets\\images\\carousel4.jpg"
+      "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\empanado.png",
+      "PackagePath": "staticwebassets\\images\\empanado.png"
     },
     {
       "Id": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\js\\site.js",
