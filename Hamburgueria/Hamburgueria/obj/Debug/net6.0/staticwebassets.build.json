@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wgyqSHyb+9kUDK3gxhrQk61ktwfiYz2dCc1agmUObvI=",
+  "Hash": "b/0Mk6BvQhpDraBzEGA2H8T4d5zFuqXDIzUoQrD3/jE=",
   "Source": "Hamburgueria",
   "BasePath": "_content/Hamburgueria",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\batata.png",
+      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\img1.png",
       "SourceId": "Hamburgueria",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\",
       "BasePath": "_content/Hamburgueria",
-      "RelativePath": "images/batata.png",
+      "RelativePath": "images/img1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\batata.png"
+      "OriginalItemSpec": "wwwroot\\images\\img1.png"
     },
     {
-      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\burger.png",
+      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\img2.png",
       "SourceId": "Hamburgueria",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\",
       "BasePath": "_content/Hamburgueria",
-      "RelativePath": "images/burger.png",
+      "RelativePath": "images/img2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\burger.png"
+      "OriginalItemSpec": "wwwroot\\images\\img2.png"
     },
     {
-      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\empanado.png",
+      "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\images\\img3.png",
       "SourceId": "Hamburgueria",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\",
       "BasePath": "_content/Hamburgueria",
-      "RelativePath": "images/empanado.png",
+      "RelativePath": "images/img3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +133,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\empanado.png"
+      "OriginalItemSpec": "wwwroot\\images\\img3.png"
     },
     {
       "Identity": "C:\\Users\\werod\\OneDrive\\Área de Trabalho\\DEV\\SiteHamburgueria\\Hamburgueria\\Hamburgueria\\wwwroot\\js\\site.js",
